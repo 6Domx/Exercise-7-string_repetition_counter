@@ -6,3 +6,5 @@
 sentence_example = "I am Miguel Dominic Payumo, from BSCpE. Miguel is pretty boring so most of my friends call me Migo."
 
 string_sample_count = sentence_example.count("Miguel")
+print("Your chosen word is: Miguel")
+print("It appered ", string_sample_count, " times.")
