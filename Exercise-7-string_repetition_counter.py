@@ -4,3 +4,5 @@
 # 3. Return the amount of times it was used
 
 sentence_example = "I am Miguel Dominic Payumo, from BSCpE. Miguel is pretty boring so most of my friends call me Migo."
+
+string_sample_count = sentence_example.count("Miguel")
